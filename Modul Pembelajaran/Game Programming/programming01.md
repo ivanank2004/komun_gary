@@ -100,7 +100,7 @@ public class kotak : MonoBehaviour // Setelah public class, sesuaikan namanya de
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Paket" && punyaPaket == false)
+        if (collision.tag == "Trigger")
         {
             moveSpeed = moveSpeed * -1;
         }
