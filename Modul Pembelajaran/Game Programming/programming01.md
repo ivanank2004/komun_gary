@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-Pada pertemuan ini, kita akan berkenalan dengan Unity Engine. Serta pengenalan terhadap gameObject, komponen-komponennya, dan memanipulasi gameObject.
+Pada pertemuan ini, kita akan berkenalan dengan Unity Engine. Serta pengenalan terhadap gameObject, komponen-komponennya, manipulasi gameObject, dan cara sederhana untuk menggerakkan gameObject dengan input keyboard.
 
 Terdapat beberapa Checkpoint dimana anggota akan disuruh untuk mempraktekkan hal yang barusan diajari secara mandiri. Di akhir materi, peserta akan diminta membuat projek berupa game sederhana yaitu *Motorcycle Delivery*.
 
